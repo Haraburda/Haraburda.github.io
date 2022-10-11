@@ -1,4 +1,4 @@
-# Portfolio: cott S. Haraburda
+# Portfolio: Scott S. Haraburda
 Files repository for R programming scripts.
 
 ## Brief Biography
