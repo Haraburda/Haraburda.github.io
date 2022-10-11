@@ -1,8 +1,6 @@
 # Portfolio: Scott S. Haraburda
 ![photo](haraburda_photo.jpg)
 
-Files repository for R programming scripts.
-
 ## Brief Biography
 
 Dr. Scott Haraburda had worked in the United States Army since 1981, in either military or civilian positions. He served in a variety of enlisted and commissioned officer positions on active and reserve duty within the medical service corps, chemical corps, engineer corps, and acquisition corps. He retired from military service in the United States Army as a Colonel in August 2010. Prior to his retirement from the military, Colonel Haraburda served as the Commander of the 464th Chemical Brigade and Commander of the 472nd Chemical Battalion. Also from 2007 to 2009, Colonel Haraburda deployed to Kuwait as the Senior Logistics Support Officer in support of Logistics Civil Augmentation Program (LOGCAP). And, he served as the Executive Secretary for the Army Science Board in 2005 at the Pentagom.
