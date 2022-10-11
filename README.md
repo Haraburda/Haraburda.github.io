@@ -16,7 +16,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 ## Projects
 
 ## Tutorials / Sections of Code
-* [test](https://github.com/Haraburda/test)
+* [test](https://haraburda.github.io-test/)
 
 ## Copyright and License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
