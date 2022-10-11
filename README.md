@@ -11,6 +11,8 @@ Dr. Haraburda received an Associates in Arts from Grand Rapids Junior College in
 
 Throughout his military and civilian careers, Dr. Haraburda’s has received many awards, including Legion of Merit, Meritorious Service Medal, Distinguished Alumnus from Grand Rapids Community College, Fellow of the National Society of Professional Engineers, and Hall of Fame from Central Michigan University Reserve Officers Training Corps.  A member of the Defense Acquisition Corps, Dr. Haraburda is Level III certified in Program Management and Engineering, as well as Level II certified in Life Cycle Logistics and Contracting. He is also a registered Professional Engineer (PE) in Indiana and a certified Project Management Professional (PMP).
 
+[click to view Resume](resume.docx)
+
 ## Projects
 
 ## Tutorials / Sections of Code
