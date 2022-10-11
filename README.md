@@ -1,11 +1,9 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Project: Travel webpage</title>
-   </head>
-   <body>
-    <h1>Travel to Costa Rica</h1>
-    <p>...and you'll get to see these beauties!</p>
-    <img scr="https://upload.wikimedia.org/wikipedia/commons/8/8b/Rose_flower.jpg" alt="rose" width="2000"/>
-   </body>
-  </html>
+# Scott S. Haraburda
+Files repository for R programming scripts.
+
+## Projects
+
+## Tutorials / Sections of Code
+
+## Copyright and License
+Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
