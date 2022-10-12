@@ -14,15 +14,12 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 [click to view Resume](resume.docx)
 
 ## Projects
+[click to view project codes](https://github.com/Haraburda/project_codes.git)
 
 ## Tutorials / Sections of Code
+[click to view tutorial codes](https://github.com/Haraburda/tutorial_codes.git)
 <p align="center"><b>Wrangle</b></p>
 * [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html)
-
-<p></p>
-<p align="center">
-  [click to view tutorial codes](https://github.com/Haraburda/tutorial_codes.git)
-</p>
 
 ## Copyright and License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
