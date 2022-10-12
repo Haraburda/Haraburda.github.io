@@ -20,6 +20,9 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 ## Tutorials / Sections of Code
 <p align="center"><b>Wrangle</b></p>
 * [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html)
+*
+
+[click to view tutorial codes](https://github.com/Haraburda/R_codes.git)
 
 ## Copyright and License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
