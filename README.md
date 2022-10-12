@@ -26,6 +26,17 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 <p></p>
 [click to view tutorial codes](https://github.com/Haraburda/tutorial_codes.git)
 
+## Patents and Patent Publications
+1. Haraburda, Scott S.; Masterson, Rex E.; Clark, Angelika H.; Davis, Michael S.; Klein, Timothy R.; and McCarty, George E. [Method and System for Electronic Recycle Inventory Tracking](https://worldwide.espacenet.com/patent/search/family/024995294/publication/US6516280B2?q=pn%3DUS6516280), U.S. Patent 6,516,280, filed December 20, 2000, and issued February 4, 2003.
+2. Tjahjadi, Mahari; Janssen, Joseph M.H.; Fischer, George F.; Lin, Ye-Gang; Tadros, Safwat E.; Georgieva, Galina D.; and Haraburda, Scott S. Scaleless On-Line Rheometer Device, U.S. Patent 6,405,579, filed September 1999, and issued June 18, 2002.
+3. Haraburda, Scott S.; Masterson, Rex E.; Clark, Angelika H.; Davis, Michael S.; Clowers, Clarence S.; Dorris, Dale W.; and Craddock, Ronald D. Method and System for Electronic Tracking of Packaging, U.S. Patent Application No. 09/742,159, filed December 20, 2000, Publication No. 2002/0077722, published June 20, 2002. 
+4. Haraburda, Scott S.; Masterson, Rex E.; Clark, Angelika H.; Davis, Michael S.; and McCarty, George E. Method and System for Using Electronic Raw Material Tracking and Quality Control, U.S. Patent Application No. 09/745,085, filed December 20, 2000, Publication No. 2002/0077718, published June 20, 2002.
+5. Haraburda, Scott S.; Masterson, Rex E.; Clark, Angelika H.; Davis, Michael S.; Dorris, Dale W.; and Johnson, Jennifer L. Method and System for Using Electronic Raw Material and Formula Verification, U.S. Patent Application No. 09/742,967, filed December 20, 2000, Publication No. 2002/0077717, published June 20, 2002.
+6. Haraburda, Scott S.; Masterson, Rex E.; Clark, Angelika H.; and Davis, Michael S. Method and System for Using Electronic Downloadable Control Plans, U.S. Patent Application No. 09/745,231, filed December 20, 2000, Publication No. 2002/0077715, published June 20, 2002.
+7. Haraburda, Scott S., Masterson, Rex E., Clark, Angelika H., and McCormick, Michael R. Method and System for Monitoring Production Data, U.S. Patent Application No.09/498035, filed February 4, 2000; World Intellectual Property Organization Publication No. WO 01/50209, published July 12, 2001.
+8. Haraburda, Scott S. Method and System for Visualizing a Production Schedule, U.S. Patent Application No. 09/456763, filed December 7, 1999; World Intellectual Property Organization Publication No. WO 01/41540, published June 14, 2001.
+9. Haraburda, Scott S. Method and System for Screen Saver Based Communications, U.S. Patent Application No. 09/416626, filed October 12, 1999; World Intellectual Property Organization Publication No. WO 01/27795, published April 19, 2001.
+
 ## Copyright and License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
