@@ -13,10 +13,13 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 
 [click to view Resume](resume.docx)
 
+[click to view Resume](wrangle/Wra_RemoveBlankCell.html)
+
 ## Projects
 
 ## Tutorials / Sections of Code
-* [test](https://haraburda.github.io/test/)
+<p align="center"><b>Wrangle</b></p>
+* [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html)
 
 ## Copyright and License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
