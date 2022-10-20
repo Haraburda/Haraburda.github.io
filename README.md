@@ -43,7 +43,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 * Haraburda, Scott S. “[Conventional Munitions Industrial Base](https://www.ausa.org/publications/conventional-munitions-industrial-base).” *AUSA Land Warfare Paper* 113 (August 2017).
 * Haraburda, Scott S. “[Transforming Military Support Processes from Logistics to Supply Chain Management](https://www.army.mil/article/162197).” *Army Sustainment* 48, no. 2 (2016): 12-15.
 * Irvine, Robert L.; Haraburda, Scott S.; and Galbis-Reig, Clara. “[Combining SBR Systems for Chemical and Biological Treatment: the Destruction of the Nerve Agent VX](http://wst.iwaponline.com/content/50/10/11),” *Water Science & Technology* 50, no. 10 (2004): 11–18.
-* Haraburda, Scott S. “Transport Phenomena of Flow through Helium and Nitrogen Plasmas in Microwave Electrothermal Thrusters,” *PhD Dissertation*, Michigan State University, 2001.
+* Haraburda, Scott S. “[Transport Phenomena of Flow through Helium and Nitrogen Plasmas in Microwave Electrothermal Thrusters](https://doi.org/doi:10.25335/M54T6FC9H),” *PhD Dissertation*, Michigan State University, 2001.
 * Haraburda, Scott S. “[Transport Properties of Plasmas in Microwave Electrothermal Thrusters](http://www.dtic.mil/dtic/tr/fulltext/u2/a219408.pdf),” *MS Thesis*, Michigan State University, 1990. 
 
 
