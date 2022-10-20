@@ -1,5 +1,6 @@
 # Data Science and Engineering Portfolio: Scott S. Haraburda
 ![photo](haraburda_photo.jpg)
+<img src="haraburda_photo.jpg" align="left" width="200px"/>
 
 ## Brief Biography
 
