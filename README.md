@@ -15,11 +15,25 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 
 ## Projects
 1. [Commodity Consumption.](project/commodity_consuption.html)  The Economic Research Service of the United States Department of Agriculture tracks the supply of food available for consumption in the United States andexamines consumer food preferences by consumers’ age, income, region, race/ethnicity,and place where food is obtained, as well as by food/commodity categories and othercharacteristics. Descriptive statistics of this commodity consumption help inform producers about who consumes their commodities, how and where their commodities areconsumed, and how much is consumed. This data comes from four national food intake surveys conducted between 1994 and 2008. *(date: July 28, 2022)*
-2. Project two.
+2. Forecasting Facility Codes for US Army Facilities.
+3. COVID-19 Analyses within a DoD Organic Industrial Base. 
+
 <p></p>
 [click to view project codes](https://github.com/Haraburda/project_codes.git)
 
 ## Tutorials / Sections of Code
+<p align="center"><b>Machine Learning</b></p>
+* 
+
+<p align="center"><b>Modeling and Simulation</b></p>
+*
+
+<p align="center"><b>Statistics</b></p>
+*
+
+<p align="center"><b>Visualization</b></p>
+* 
+
 <p align="center"><b>Wrangle</b></p>
 * [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html)
 
