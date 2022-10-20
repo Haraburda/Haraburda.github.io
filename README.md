@@ -39,12 +39,17 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 
 ## Other Key Publications
 
-* Haraburda, Scott S. “[Supply Chain Management Maturity Level Assessment](https://doi.org/10.22594/dau.16-772.24.04).” *Defense Acquisition Research Journal* 24, no. 4 (2017): 656-681.
+* Haraburda, Scott S. [review of “Feeding Victory: Innovative Military Logistics from Lake George to Khe Sanh,” by Jobie Turner](https://publications.armywarcollege.edu/pubs/3754.pdf), *Parameters* 51, no. 3 (2021): 139-141.
+* Haraburda, Scott S. [review of “Global Data Shock: Strategic Ambiguity, Deception, and Surprise in an Age of Information Overload,” by Robert Mandell](https://publications.armywarcollege.edu/pubs/3733.pdf), *Parameters* 50, no. 3 (2020): 148-149.
+* Haraburda, Scott S. “[Benefits and Pitfalls of Data-Based Military Decisionmaking](https://smallwarsjournal.com/jrnl/art/benefits-and-pitfalls-data-based-military-decisionmaking),” *Small Wars Journal* 15, no. 11 (November 2019). 
+* Haraburda, Scott S. “Thinking Smart: Analysts Crunch Data to Drive Better Decision-Making,” *Army* 68, no. 3 (March 2018): 46-48.
+* Haraburda, Scott S. “[Dateless Discord Dominance in Digital Dreamdorf Domain](http://smallwarsjournal.com/jrnl/art/dateless-discord-dominance-in-digital-dreamdorf-domain),” *Small Wars Journal* 13, no. 8 (August 2017).
+* Haraburda, Scott S. “[Supply Chain Management Maturity Level Assessment](https://www.dau.edu/library/arj/ARJ/ARJ83/ARJ83%20Article%203%20-%2016-775%20Haraburda.pdf).” *Defense Acquisition Research Journal* 24, no. 4 (2017): 656-681.
 * Haraburda, Scott S. “[Conventional Munitions Industrial Base](https://www.ausa.org/publications/conventional-munitions-industrial-base).” *AUSA Land Warfare Paper* 113 (August 2017).
 * Haraburda, Scott S. “[Transforming Military Support Processes from Logistics to Supply Chain Management](https://www.army.mil/article/162197).” *Army Sustainment* 48, no. 2 (2016): 12-15.
 * Irvine, Robert L.; Haraburda, Scott S.; and Galbis-Reig, Clara. “[Combining SBR Systems for Chemical and Biological Treatment: the Destruction of the Nerve Agent VX](http://wst.iwaponline.com/content/50/10/11),” *Water Science & Technology* 50, no. 10 (2004): 11–18.
 * Haraburda, Scott S. “[Transport Phenomena of Flow through Helium and Nitrogen Plasmas in Microwave Electrothermal Thrusters](https://doi.org/doi:10.25335/M54T6FC9H),” *PhD Dissertation*, Michigan State University, 2001.
-* Haraburda, Scott S. “[Transport Properties of Plasmas in Microwave Electrothermal Thrusters](http://www.dtic.mil/dtic/tr/fulltext/u2/a219408.pdf),” *MS Thesis*, Michigan State University, 1990. 
+* Haraburda, Scott S. “[Transport Properties of Plasmas in Microwave Electrothermal Thrusters](https://apps.dtic.mil/sti/citations/ADA219408),” *MS Thesis*, Michigan State University, 1990. 
 
 
 ## Copyright and License
