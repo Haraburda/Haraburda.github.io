@@ -35,7 +35,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 * 
 
 <p align="center"><b>Wrangle</b></p>
-* [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html)
+* [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html).  To locate and remove blank cells (NULL) from data files with vectors characterized as factors and replace with NA. This also replaces factor types.
 
 <p></p>
 [click to view tutorial codes](https://github.com/Haraburda/tutorial_codes.git)
