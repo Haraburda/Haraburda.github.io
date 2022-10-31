@@ -25,7 +25,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 * 
 
 <p align="center"><b>Modeling and Simulation</b></p>
-* [Kriging to Predict Values on a Grid](modeling_simulation/Mod_Krige1.html). To predict values on a grid, portrayed graphically with contours, also known as Gaussian process regression. This method takes collected spatially related data, usually mapped to a grid coordinates, and estimates the values between the data. This is often used in soil science and geology.
+* [Kriging to Predict Values on a Grid](modeling_simulation/Mod_Krige1.html). To predict values on a grid, portrayed graphically with contours, also known as Gaussian process regression. This method takes collected spatially related data, usually mapped to a grid coordinates, and estimates the values between the data. This is often used in soil science and geology.<br>
 * Linear Programming. To use linear program techniques to calculate minimum or maximum values of a constrained objective function. Three examples are provided for Integer Programming (IP), Linear Programming (LP), and Mixed-Integer Linear Programming (MILP) techniques.
 
 <p align="center"><b>Statistics</b></p>
