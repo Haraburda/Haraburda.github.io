@@ -29,7 +29,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 * [Linear Programming](modeling_simulation/Mod_LinearProgram1.html). To use linear program techniques to calculate minimum or maximum values of a constrained objective function. Three examples are provided for Integer Programming (IP), Linear Programming (LP), and Mixed-Integer Linear Programming (MILP) techniques.
 <p></p>
 <p align="center"><b>Statistics</b></p>
-*
+*[Local Regression Smoothing of Data](statistics/Sta_Loess_Regression.html). To conduct local regression smoothing plots of data on x-y axis using LOESS (locally estimated scatter-plot smoothing). Different values for span are used to demonstrate this parameter for smoothing the curve that represents the scatter of data.  The default value is 0.75 So, the primary question becomes: <i>"What size span should I use?"</i> One method demonstrated is to use a visual interpretation using different span values and choosing the one with the least amount of smoothing that appears appropriate to the analysis. Other methods include calculations, such as cross validation (CV) and Generalized Cross Validation (GCV). A quick GCV approach is used to select the best span value in this example.
 <p></p>
 <p align="center"><b>Visualization</b></p>
 * 
