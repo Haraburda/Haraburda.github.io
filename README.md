@@ -22,7 +22,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 
 ## Tutorials / Sections of Code
 <p align="center"><b>Chemical Engineering</b></p>
-* [Curve-fitting Known Data for Chemical Physical Properties](chem_eng/ChE_Curve_Fit.html). To use simple and quick techniques to estimate physical properties of chemicals using known data.
+* [Curve-fitting Known Data for Vapor Pressure](chem_eng/ChE_Curve_Fit_VP.html). To use simple and quick techniques to estimate vapor pressures using known data. This includes a quick estimate using the Antoine equation, and a more rigorous estimation using the Newton_Raphson method.
 <p></p>
 <p align="center"><b>Machine Learning</b></p>
 * [Machine Learning for an Imbalanced Dataset](machine_learning/ML_imbalanced_data.html). To use simple machine learning concepts involving an imbalanced dataset, one that contains skewed class proportions. An extreme example would be one with 99% of the data representing a majority class and 1% a minority one. Throwing this data into a machine learning algorithm might provide the wrong prediction when it completely ignores the minority class, predicting that all members of this dataset were majority members, demonstrated with a 99% overall accuracy. Methods to offset this imbalance includes sampling techniques and modeling evaluation techniques. In this example, I applied a balanced approach to maximize the average for each class, comparing it to the maximum accuracy for the overall dataset.
