@@ -20,7 +20,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 <p></p>
 [click to view project codes](https://github.com/Haraburda/project_codes.git)
 
-## Tutorials / Sections of Code
+## Analysis Scripts (R programming)
 <p align="center"><b>Chemical Engineering</b></p>
 * [Liquid Density Predictions](chem_eng/ChE_predict_rho.html). To predict liquid densities using equations for the Rackett and Bhirud correlation methods. Examples include water and hexane, a polar and non-polar chemical respectively. *(date: June 9, 1994)*<br>
 * [Vapor Pressures from Curve-Fitting](chem_eng/ChE_Curve_Fit_VP.html). To use simple and quick curve-fitting techniques to estimate vapor pressures using known data. This includes a quick estimate using the Antoine equation, and a more rigorous estimation using the Newton_Raphson method. *(date: July 13, 1994)*
