@@ -36,6 +36,8 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 <p align="center"><b>Statistics</b></p>
 * [Local Regression Smoothing of Data](statistics/Sta_Loess_Regression.html). To conduct local regression smoothing plots of data on x-y axis using LOESS (locally estimated scatter-plot smoothing). Different values for span are used to demonstrate this parameter for smoothing the curve that represents the scatter of data.  The default value is 0.75 So, the primary question becomes: <i>"What size span should I use?"</i> One method demonstrated is to use a visual interpretation using different span values and choosing the one with the least amount of smoothing that appears appropriate to the analysis. Other methods include calculations, such as cross validation (CV) and Generalized Cross Validation (GCV). A quick GCV approach is used to select the best span value in this example. *(date: February 4, 2019)*
 <p></p>
+* [Nonlinear Regression of Data](statistics/Sta_Nonlinear_Regression.html). To conduct non-linear regression plots of data along with cross-validation metrics to assess concerns regarding potential overfitting in the model. This example contains 101 data points. *(date: September 24, 2018)*
+<p></p>
 <p align="center"><b>Visualization</b></p>
 * [Histogram Plot with Normal Distribution Curve](visualization/Vis_Histogram1.html). To portray a graphical representation of data using a histogram and a normal distribution curve (frequency weighted). *(date: September 20, 2018)*
 <p></p>
