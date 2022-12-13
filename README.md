@@ -48,7 +48,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 <p align="center"><b>Wrangle</b></p>
 * [Replace Blank Cells with NA](wrangle/Wra_RemoveBlankCell.html).  To locate and remove blank cells (NULL) from data files with vectors characterized as factors and replace with NA. This also replaces factor types. *(date: September 18, 2018)*
 <p></p>
-* [Retrieve Tabular Data from a Website](wrangle/Wra_WebScrape1.html).  To retrieve tabular data via web scraping techniques. This example extracts the “past population” data (11th table on the website) from the Wikipedia “World Population” site. *(date: April 27, 2020)*
+* [Retrieve Tabular Data from a Website](wrangle/Wra_WebScrape1.html).  To retrieve tabular data via web scraping techniques. This example extracts the “past population” data (10th table on the website) from the Wikipedia “World Population” site. *(date: April 27, 2020)*
 <p></p>
 [click to view tutorial codes](https://github.com/Haraburda/tutorial_codes.git)
 
