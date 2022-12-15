@@ -41,6 +41,8 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 * [Nonlinear Regression of Data](statistics/Sta_Nonlinear_Regression.html). To conduct non-linear regression plots of data along with cross-validation metrics to assess concerns regarding potential overfitting in the model. This example contains 101 data points. *(date: September 24, 2018)*
 <p></p>
 <p align="center"><b>Visualization</b></p>
+* [Connecting Routes on a Global Map](visualization/Vis_GlobalMap1.html). To portray connection lines between several locations on a map. *(date: September 13, 2018)*
+<p></p>
 * [Descriptive Analytics of Safety Data](visualization/Vis_Safety1.html). To portray a graphical representation of safety data using descriptive analytics to assess valuable information. This includes a Pareto by event for all safety incidents, a Pareto of recordable incidents, a graph of recordable incidents by unit and by day of the week, a heatmap of recordable safety incidents by day of the week for each unit (percentage by day and by unit), safety pyramid by severity for each unit, and heatmap of incidents by time of the weekday. *(date: October 15, 2019)*
 <p></p>
 * [Histogram Plot with Normal Distribution Curve](visualization/Vis_Histogram1.html). To portray a graphical representation of data using a histogram and a normal distribution curve (frequency weighted). *(date: September 20, 2018)*
