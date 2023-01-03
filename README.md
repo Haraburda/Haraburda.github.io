@@ -22,6 +22,7 @@ Throughout his military and civilian careers, Dr. Haraburda’s has received man
 
 ## Analysis Scripts (R programming)
 <p align="center"><b>Chemical Engineering</b></p>
+* [Helical-Coil Heat Exchanger Design](chem_eng/ChE_HelicalCoilHX.html). To design a helical-coil heat exchanger, which is useful for three-phase flow, by calculating the tube-side heat-transfer coefficient; calculating the shell-side heat-transfer coefficient; and calculating the heat-exchanger size; calculating the tube-side pressure drop. This contains the script for my Chemical Engineering article. *(date: July 1, 1995)*<br>
 * [Liquid Density Predictions](chem_eng/ChE_predict_rho.html). To predict liquid densities using equations for the Rackett and Bhirud correlation methods. Examples include water and hexane, a polar and non-polar chemical respectively. *(date: June 9, 1994)*<br>
 * [Vapor Pressures from Curve-Fitting](chem_eng/ChE_Curve_Fit_VP.html). To use simple and quick curve-fitting techniques to estimate vapor pressures using known data. This includes a quick estimate using the Antoine equation, and a more rigorous estimation using the Newton_Raphson method. *(date: July 13, 1994)*
 <p></p>
